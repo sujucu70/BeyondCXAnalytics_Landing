@@ -55,7 +55,7 @@ const UseCasesSection: React.FC = () => {
                     "Sospechas que hay variabilidad oculta",
                     "Necesitas justificación de presupuesto ante CFO",
                 ]}
-                whatYouGet="Baseline cuantificado + oportunidades de €100K-€500K que no habías identificado."
+                whatYouGet="Baseline cuantificado + oportunidades concretas que no habías identificado."
             />
             <UseCaseCard
                 title="Benchmark Competitivo"

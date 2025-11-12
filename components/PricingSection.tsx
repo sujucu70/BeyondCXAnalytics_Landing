@@ -87,11 +87,6 @@ const PricingSection: React.FC = () => {
                                         </li>
                                     ))}
                                 </ul>
-                                <a href="#cta" className={`w-full block text-center font-bold mt-8 py-3 px-6 rounded-lg transition-colors text-lg
-                                    ${tier.isMostPopular ? 'bg-primary text-white hover:bg-blue-700' : 'bg-surface text-primary hover:bg-primary/20'}
-                                `}>
-                                    Solicitar {tier.name} →
-                                </a>
                             </div>
                         </div>
                     ))}

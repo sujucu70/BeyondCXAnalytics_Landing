@@ -14,7 +14,7 @@ const ProcessSection: React.FC = () => {
             <div className="container mx-auto px-6">
                 <div className="text-center max-w-3xl mx-auto">
                     <h2 className="text-3xl md:text-4xl font-bold text-text-primary mb-16 font-sans tracking-tight">
-                        Cómo funciona: De solicitud a roadmap en 14 días
+                        Cómo funciona: Resultados en 14 días
                     </h2>
                 </div>
 
