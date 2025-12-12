@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
               <li><a href="#" className="opacity-75 hover:text-primary">Beyond-Booking</a></li>
               <li><a href="#" className="opacity-75 hover:text-primary">Beyond-Order</a></li>
               <li><a href="#" className="opacity-75 hover:text-primary">Beyond-FCR</a></li>
-              <li><a href="#" className="font-bold hover:text-primary">Beyond Diagnostic™</a></li>
+              <li><a href="#" className="font-bold hover:text-primary">BeyondCX Analytics™</a></li>
             </ul>
           </div>
           <div>
